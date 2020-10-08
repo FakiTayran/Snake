@@ -10,7 +10,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//Faki
 namespace YilanOyunu
 {
     public partial class Form1 : MetroForm
